@@ -1,0 +1,5 @@
+.idea
+pyeuv97.egg-info
+dist
+tests
+__pycache__
